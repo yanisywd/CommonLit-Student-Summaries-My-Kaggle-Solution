@@ -1,4 +1,4 @@
-# Student Summary Evaluator: CommonLit - Evaluate Student Summaries
+# CommonLit - Evaluate Student Summaries
 
 This repository hosts a machine learning solution developed for the Kaggle competition: **CommonLit - Evaluate Student Summaries**. It's tailored to leverage BERT in automatically assessing and scoring student-written summaries, aiming to assist educators and online platforms in delivering real-time feedback.
 
